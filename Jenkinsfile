@@ -16,7 +16,7 @@ pipeline {
 
         stage('Run') {
             steps {
-                sh 'java -cp target/jenkins-practice-1.0.jar App'
+                sh 'java -cp target/server.jar
             }
         }
     }
