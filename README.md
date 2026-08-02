@@ -1,4 +1,5 @@
 # Hello Jenkins
+JENKINS-PRACTICE
 
 A simple Maven project for GitHub + Jenkins + Webhook.
 
