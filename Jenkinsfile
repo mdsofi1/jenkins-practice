@@ -16,7 +16,7 @@ pipeline {
 
         stage('Run') {
             steps {
-                sh 'java -cp target/server.jar App'
+                sh 'java -cp target/classes App'
             }
         }
     }
